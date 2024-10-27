@@ -10,10 +10,13 @@ You can also include images in this folder and reference them in the markdown. E
 ## How it works
 
 Explain how your project works
+Will do that later 
 
 ## How to test
 
 Explain how to use your project
+Connect power - if no smoke - all good 
+
 
 ## External hardware
 
